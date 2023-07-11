@@ -14,8 +14,7 @@ This is the assignment done during the Frontend training from Knowledge Lens. In
 
 This app is having following features:
 
-- Form Validation
-Validating the details based on the given user inputs.
+- Validating the details based on the given user inputs.
 
 
 ## Run the application
